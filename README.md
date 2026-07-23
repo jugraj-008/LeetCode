@@ -1,4 +1,4 @@
-# 📘 LeetCode Solutions
+# ð LeetCode Solutions
 
 Welcome to my LeetCode repository!
 
@@ -6,17 +6,17 @@ This repository contains my Java solutions to LeetCode problems that I solve whi
 
 ---
 
-## 🚀 What's inside?
+## ð What's inside?
 
-- 💻 Solutions written in Java
-- 📂 One folder for every LeetCode problem
-- 🧠 Problems from different DSA topics
-- 📈 Regular updates as I solve new questions
-- 🔄 Most solutions are automatically synced using LeetHub.
+- ð» Solutions written in Java
+- ð One folder for every LeetCode problem
+- ð§  Problems from different DSA topics
+- ð Regular updates as I solve new questions
+- ð Most solutions are automatically synced using LeetHub.
 
 ---
 
-## 🎯 Why I made this repository
+## ð¯ Why I made this repository
 
 I believe consistency is the key to mastering DSA.
 
@@ -28,7 +28,7 @@ This repository helps me:
 
 ---
 
-## 📚 Topics I'm Learning
+## ð Topics I'm Learning
 
 - Arrays
 - Strings
@@ -54,4 +54,16 @@ This repository helps me:
 
 ---
 
-⭐ I'm continuously solving new problems and updating this repository as I learn.
+â­ I'm continuously solving new problems and updating this repository as I learn.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jugraj-008/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jugraj-008/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
