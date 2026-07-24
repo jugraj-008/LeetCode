@@ -57,3 +57,11 @@ This repository helps me:
 ⭐ I'm continuously solving new problems and updating this repository as I learn.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/jugraj-008/LeetCode/tree/master/0038-count-and-say) |
+<!---LeetCode Topics End-->
