@@ -56,19 +56,4 @@ This repository helps me:
 
 ⭐ I'm continuously solving new problems and updating this repository as I learn.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
 
-## Array
-
-| Problem |
-| ------- |
-| [0001-two-sum](https://github.com/jugraj-008/LeetCode/tree/master/0001-two-sum) |
-
-## Hash Table
-
-| Problem |
-| ------- |
-| [0001-two-sum](https://github.com/jugraj-008/LeetCode/tree/master/0001-two-sum) |
-
-<!---LeetCode Topics End-->
