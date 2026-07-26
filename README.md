@@ -67,9 +67,15 @@ This repository helps me:
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3859-maximum-product-of-two-digits](https://github.com/jugraj-008/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3859-maximum-product-of-two-digits](https://github.com/jugraj-008/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
