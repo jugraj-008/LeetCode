@@ -64,9 +64,11 @@ This repository helps me:
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/jugraj-008/LeetCode/tree/master/0038-count-and-say) |
+| [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3859-maximum-product-of-two-digits](https://github.com/jugraj-008/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
@@ -85,4 +87,8 @@ This repository helps me:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
