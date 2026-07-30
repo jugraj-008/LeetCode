@@ -65,11 +65,13 @@ This repository helps me:
 | ------- |
 | [0038-count-and-say](https://github.com/jugraj-008/LeetCode/tree/master/0038-count-and-say) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/jugraj-008/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -91,4 +93,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
