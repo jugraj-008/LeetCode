@@ -85,6 +85,7 @@ This repository helps me:
 | [0033-search-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/jugraj-008/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2737-row-with-maximum-ones](https://github.com/jugraj-008/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
@@ -110,4 +111,13 @@ This repository helps me:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jugraj-008/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
