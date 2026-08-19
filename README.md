@@ -88,6 +88,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/jugraj-008/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/jugraj-008/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jugraj-008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -110,6 +111,7 @@ This repository helps me:
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jugraj-008/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
@@ -149,4 +151,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/jugraj-008/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
