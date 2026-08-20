@@ -83,6 +83,7 @@ This repository helps me:
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1829-maximum-units-on-a-truck](https://github.com/jugraj-008/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [3859-maximum-product-of-two-digits](https://github.com/jugraj-008/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -96,6 +97,7 @@ This repository helps me:
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1829-maximum-units-on-a-truck](https://github.com/jugraj-008/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2737-row-with-maximum-ones](https://github.com/jugraj-008/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -113,6 +115,7 @@ This repository helps me:
 | ------- |
 | [0055-jump-game](https://github.com/jugraj-008/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
+| [1829-maximum-units-on-a-truck](https://github.com/jugraj-008/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
