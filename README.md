@@ -67,6 +67,7 @@ This repository helps me:
 | [0020-valid-parentheses](https://github.com/jugraj-008/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/jugraj-008/LeetCode/tree/master/0038-count-and-say) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
+| [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
@@ -122,6 +123,7 @@ This repository helps me:
 | [0134-gas-station](https://github.com/jugraj-008/LeetCode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jugraj-008/LeetCode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
 | [1829-maximum-units-on-a-truck](https://github.com/jugraj-008/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
@@ -141,6 +143,7 @@ This repository helps me:
 | [0003-longest-substring-without-repeating-characters](https://github.com/jugraj-008/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,6 +160,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
 ## Quicksort
 |  |
 | ------- |
