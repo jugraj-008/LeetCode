@@ -71,6 +71,7 @@ This repository helps me:
 | [0058-length-of-last-word](https://github.com/jugraj-008/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/jugraj-008/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
@@ -173,6 +174,7 @@ This repository helps me:
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/jugraj-008/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1894-merge-strings-alternately](https://github.com/jugraj-008/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Quicksort
 |  |
 | ------- |
