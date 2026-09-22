@@ -71,6 +71,7 @@ This repository helps me:
 | [0058-length-of-last-word](https://github.com/jugraj-008/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/jugraj-008/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/jugraj-008/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
@@ -80,6 +81,7 @@ This repository helps me:
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/jugraj-008/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/jugraj-008/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
@@ -209,4 +211,12 @@ This repository helps me:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jugraj-008/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/jugraj-008/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/jugraj-008/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
