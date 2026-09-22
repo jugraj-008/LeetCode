@@ -112,6 +112,7 @@ This repository helps me:
 | [0605-can-place-flowers](https://github.com/jugraj-008/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/jugraj-008/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/jugraj-008/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1829-maximum-units-on-a-truck](https://github.com/jugraj-008/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2737-row-with-maximum-ones](https://github.com/jugraj-008/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
