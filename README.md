@@ -119,6 +119,7 @@ This repository helps me:
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jugraj-008/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jugraj-008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/jugraj-008/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
+| [1833-find-the-highest-altitude](https://github.com/jugraj-008/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2737-row-with-maximum-ones](https://github.com/jugraj-008/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -233,6 +234,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jugraj-008/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/jugraj-008/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
