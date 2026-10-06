@@ -117,6 +117,7 @@ This repository helps me:
 | [0605-can-place-flowers](https://github.com/jugraj-008/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/jugraj-008/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1319-unique-number-of-occurrences](https://github.com/jugraj-008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jugraj-008/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jugraj-008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -167,6 +168,7 @@ This repository helps me:
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
+| [1319-unique-number-of-occurrences](https://github.com/jugraj-008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jugraj-008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Monotonic Stack
