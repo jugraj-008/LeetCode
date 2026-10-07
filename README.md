@@ -102,6 +102,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/jugraj-008/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/jugraj-008/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -157,6 +158,7 @@ This repository helps me:
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/jugraj-008/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/jugraj-008/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Stack
@@ -170,6 +172,7 @@ This repository helps me:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jugraj-008/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jugraj-008/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -235,6 +238,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jugraj-008/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
 ## Euclidean Algorithm
 |  |
@@ -256,6 +260,7 @@ This repository helps me:
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
 ## Divide and Conquer
 |  |
@@ -277,4 +282,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
