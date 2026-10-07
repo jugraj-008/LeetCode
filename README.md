@@ -90,6 +90,7 @@ This repository helps me:
 | ------- |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jugraj-008/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +114,7 @@ This repository helps me:
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/jugraj-008/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jugraj-008/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -133,6 +135,7 @@ This repository helps me:
 | [0074-search-a-2d-matrix](https://github.com/jugraj-008/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +172,7 @@ This repository helps me:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jugraj-008/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/jugraj-008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -190,6 +194,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jugraj-008/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/jugraj-008/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
