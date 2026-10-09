@@ -286,4 +286,20 @@ This repository helps me:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
