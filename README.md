@@ -101,6 +101,7 @@ This repository helps me:
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/jugraj-008/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
@@ -197,6 +198,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jugraj-008/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/jugraj-008/LeetCode/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/jugraj-008/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
