@@ -166,6 +166,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jugraj-008/LeetCode/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jugraj-008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jugraj-008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -292,10 +293,12 @@ This repository helps me:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jugraj-008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jugraj-008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -304,4 +307,5 @@ This repository helps me:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jugraj-008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
