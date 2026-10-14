@@ -72,6 +72,7 @@ This repository helps me:
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/jugraj-008/LeetCode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
+| [0929-unique-email-addresses](https://github.com/jugraj-008/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jugraj-008/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/jugraj-008/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -123,6 +124,7 @@ This repository helps me:
 | [0605-can-place-flowers](https://github.com/jugraj-008/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/jugraj-008/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0929-unique-email-addresses](https://github.com/jugraj-008/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/jugraj-008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jugraj-008/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -180,6 +182,7 @@ This repository helps me:
 | [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
+| [0929-unique-email-addresses](https://github.com/jugraj-008/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/jugraj-008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jugraj-008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
