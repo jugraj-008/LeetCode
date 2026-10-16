@@ -316,4 +316,8 @@ This repository helps me:
 | ------- |
 | [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jugraj-008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jugraj-008/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
