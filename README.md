@@ -70,6 +70,7 @@ This repository helps me:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jugraj-008/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jugraj-008/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/jugraj-008/LeetCode/tree/master/0058-length-of-last-word) |
+| [0394-decode-string](https://github.com/jugraj-008/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/jugraj-008/LeetCode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
@@ -173,6 +174,7 @@ This repository helps me:
 | [0020-valid-parentheses](https://github.com/jugraj-008/LeetCode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jugraj-008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jugraj-008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/jugraj-008/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -322,4 +324,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jugraj-008/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/jugraj-008/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
