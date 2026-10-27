@@ -111,6 +111,7 @@ This repository helps me:
 | [0039-combination-sum](https://github.com/jugraj-008/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/jugraj-008/LeetCode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/jugraj-008/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/jugraj-008/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jugraj-008/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jugraj-008/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -147,6 +148,7 @@ This repository helps me:
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/jugraj-008/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
@@ -166,6 +168,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/jugraj-008/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/jugraj-008/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/jugraj-008/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Stack
