@@ -82,6 +82,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jugraj-008/LeetCode/tree/master/0013-roman-to-integer) |
+| [0096-unique-binary-search-trees](https://github.com/jugraj-008/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jugraj-008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
@@ -228,6 +229,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/jugraj-008/LeetCode/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/jugraj-008/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jugraj-008/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jugraj-008/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Timsort
@@ -307,6 +309,7 @@ This repository helps me:
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/jugraj-008/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jugraj-008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -321,6 +324,7 @@ This repository helps me:
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/jugraj-008/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jugraj-008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
@@ -331,4 +335,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/jugraj-008/LeetCode/tree/master/0394-decode-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/jugraj-008/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
