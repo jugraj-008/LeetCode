@@ -129,6 +129,7 @@ This repository helps me:
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/jugraj-008/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/jugraj-008/LeetCode/tree/master/0682-baseball-game) |
 | [0917-boats-to-save-people](https://github.com/jugraj-008/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0929-unique-email-addresses](https://github.com/jugraj-008/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/jugraj-008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -151,6 +152,7 @@ This repository helps me:
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/jugraj-008/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/jugraj-008/LeetCode/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +182,7 @@ This repository helps me:
 | [0150-evaluate-reverse-polish-notation](https://github.com/jugraj-008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/jugraj-008/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/jugraj-008/LeetCode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
