@@ -342,4 +342,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/jugraj-008/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jugraj-008/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
