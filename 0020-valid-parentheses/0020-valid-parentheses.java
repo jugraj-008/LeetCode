@@ -13,6 +13,7 @@ class Solution {
             else if(ch == '{'){
                 st.push('}');
             }
+            //Closing bracket → Pop and compare.
             else{ 
                 if(st.isEmpty() || ch != st.pop()){
                 return false;
