@@ -82,6 +82,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jugraj-008/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/jugraj-008/LeetCode/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/jugraj-008/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jugraj-008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
@@ -206,6 +207,7 @@ This repository helps me:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jugraj-008/LeetCode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/jugraj-008/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
