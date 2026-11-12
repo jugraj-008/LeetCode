@@ -65,6 +65,7 @@ This repository helps me:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jugraj-008/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jugraj-008/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/jugraj-008/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jugraj-008/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jugraj-008/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jugraj-008/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -107,6 +108,7 @@ This repository helps me:
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jugraj-008/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/jugraj-008/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
@@ -348,4 +350,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jugraj-008/LeetCode/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jugraj-008/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
