@@ -71,6 +71,7 @@ This repository helps me:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jugraj-008/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jugraj-008/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/jugraj-008/LeetCode/tree/master/0058-length-of-last-word) |
+| [0127-word-ladder](https://github.com/jugraj-008/LeetCode/tree/master/0127-word-ladder) |
 | [0394-decode-string](https://github.com/jugraj-008/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/jugraj-008/LeetCode/tree/master/0443-string-compression) |
@@ -199,6 +200,7 @@ This repository helps me:
 | [0013-roman-to-integer](https://github.com/jugraj-008/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jugraj-008/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/jugraj-008/LeetCode/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -342,6 +344,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
+| [0127-word-ladder](https://github.com/jugraj-008/LeetCode/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
@@ -371,4 +374,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jugraj-008/LeetCode/tree/master/0014-longest-common-prefix) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/jugraj-008/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
