@@ -103,6 +103,7 @@ This repository helps me:
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/jugraj-008/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/jugraj-008/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jugraj-008/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jugraj-008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/jugraj-008/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -141,6 +142,7 @@ This repository helps me:
 | [1319-unique-number-of-occurrences](https://github.com/jugraj-008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jugraj-008/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/jugraj-008/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jugraj-008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/jugraj-008/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/jugraj-008/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -243,6 +245,7 @@ This repository helps me:
 | [0096-unique-binary-search-trees](https://github.com/jugraj-008/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jugraj-008/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jugraj-008/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/jugraj-008/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Timsort
 |  |
 | ------- |
