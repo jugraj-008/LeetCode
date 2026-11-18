@@ -80,6 +80,7 @@ This repository helps me:
 | [1146-greatest-common-divisor-of-strings](https://github.com/jugraj-008/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jugraj-008/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/jugraj-008/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1980-find-unique-binary-string](https://github.com/jugraj-008/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
@@ -148,6 +149,7 @@ This repository helps me:
 | [1798-max-number-of-k-sum-pairs](https://github.com/jugraj-008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/jugraj-008/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/jugraj-008/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1980-find-unique-binary-string](https://github.com/jugraj-008/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2737-row-with-maximum-ones](https://github.com/jugraj-008/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -211,6 +213,7 @@ This repository helps me:
 | [1392-find-the-difference-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jugraj-008/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jugraj-008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1980-find-unique-binary-string](https://github.com/jugraj-008/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -277,6 +280,7 @@ This repository helps me:
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jugraj-008/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
+| [1980-find-unique-binary-string](https://github.com/jugraj-008/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Euclidean Algorithm
 |  |
 | ------- |
