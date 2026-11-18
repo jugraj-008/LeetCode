@@ -114,6 +114,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jugraj-008/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/jugraj-008/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
@@ -234,6 +235,7 @@ This repository helps me:
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jugraj-008/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jugraj-008/LeetCode/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
