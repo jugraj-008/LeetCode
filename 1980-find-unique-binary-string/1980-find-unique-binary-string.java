@@ -7,7 +7,7 @@ class Solution {
             if (nums[i].charAt(i) == '0') {
                 ans.append('1');
             } else {
-                ans.append('0');
+                ans.append('2');
             }
         }
 
