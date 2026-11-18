@@ -14,12 +14,10 @@ class Solution {
 
         
         for(int i=start ; i<candidates.length ; i++){
-                   if( i > start && candidates[i-1] == candidates[i]){
+                   if(i > start && candidates[i-1] == candidates[i] || candidates[i] > remaining){
             continue;
         }
-        if(candidates[i] > remaining){
-            continue;
-        }
+
         path.add(candidates[i]);
         helper(candidates , remaining - candidates[i] , i+1 , path , result);
         path.remove(path.size() - 1);
