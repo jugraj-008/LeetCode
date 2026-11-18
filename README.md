@@ -129,6 +129,7 @@ This repository helps me:
 | [0150-evaluate-reverse-polish-notation](https://github.com/jugraj-008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jugraj-008/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/jugraj-008/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/jugraj-008/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/jugraj-008/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -185,6 +186,7 @@ This repository helps me:
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/jugraj-008/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/jugraj-008/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
 | [2737-row-with-maximum-ones](https://github.com/jugraj-008/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Stack
 |  |
@@ -344,11 +346,13 @@ This repository helps me:
 | [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jugraj-008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jugraj-008/LeetCode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/jugraj-008/LeetCode/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -382,4 +386,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jugraj-008/LeetCode/tree/master/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
