@@ -98,6 +98,7 @@ This repository helps me:
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/jugraj-008/LeetCode/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -121,6 +122,7 @@ This repository helps me:
 | [0039-combination-sum](https://github.com/jugraj-008/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jugraj-008/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jugraj-008/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jugraj-008/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jugraj-008/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jugraj-008/LeetCode/tree/master/0055-jump-game) |
@@ -293,6 +295,7 @@ This repository helps me:
 | [0039-combination-sum](https://github.com/jugraj-008/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jugraj-008/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jugraj-008/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jugraj-008/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/jugraj-008/LeetCode/tree/master/0090-subsets-ii) |
 | [1980-find-unique-binary-string](https://github.com/jugraj-008/LeetCode/tree/master/1980-find-unique-binary-string) |
