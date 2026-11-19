@@ -1,29 +1,19 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-
         List<List<Integer>> result = new ArrayList<>();
-        boolean[] used = new boolean[nums.length];
-        backtrack(nums, result, new ArrayList<>(),used);
+        helper(nums , result , new ArrayList<>());
         return result;
     }
-
-    public void backtrack(int[] nums , List<List<Integer>> result,
-ArrayList<Integer> path,boolean[] used) {
-
-        
-        if (path.size() == nums.length) {
+    public static void helper(int[] nums , List<List<Integer>> result , List<Integer> path){
+        if(path.size() == nums.length){
             result.add(new ArrayList<>(path));
             return;
         }
-        for (int i = 0; i < nums.length; i++) {
-            if (used[i]) {
-                continue;
-            }
+        for(int i=0 ; i<nums.length ; i++){
+            if(path.contains(nums[i])) continue;
             path.add(nums[i]);
-            used[i] = true;
-            backtrack(nums, result ,path, used);
-            path.remove(path.size() - 1);
-            used[i] = false;
+            helper(nums , result , path);
+            path.remove(path.size()-1);
         }
     }
 }
