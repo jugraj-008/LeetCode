@@ -120,6 +120,7 @@ This repository helps me:
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jugraj-008/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jugraj-008/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/jugraj-008/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/jugraj-008/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/jugraj-008/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -287,6 +288,7 @@ This repository helps me:
 | [0037-sudoku-solver](https://github.com/jugraj-008/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jugraj-008/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jugraj-008/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/jugraj-008/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/jugraj-008/LeetCode/tree/master/0090-subsets-ii) |
 | [1980-find-unique-binary-string](https://github.com/jugraj-008/LeetCode/tree/master/1980-find-unique-binary-string) |
