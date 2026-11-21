@@ -72,6 +72,7 @@ This repository helps me:
 | [0038-count-and-say](https://github.com/jugraj-008/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/jugraj-008/LeetCode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/jugraj-008/LeetCode/tree/master/0127-word-ladder) |
+| [0214-shortest-palindrome](https://github.com/jugraj-008/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/jugraj-008/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/jugraj-008/LeetCode/tree/master/0443-string-compression) |
@@ -278,14 +279,17 @@ This repository helps me:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jugraj-008/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/jugraj-008/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jugraj-008/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/jugraj-008/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jugraj-008/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/jugraj-008/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -411,4 +415,16 @@ This repository helps me:
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jugraj-008/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jugraj-008/LeetCode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jugraj-008/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
