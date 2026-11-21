@@ -142,6 +142,7 @@ This repository helps me:
 | [0334-increasing-triplet-subsequence](https://github.com/jugraj-008/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jugraj-008/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jugraj-008/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jugraj-008/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -216,6 +217,7 @@ This repository helps me:
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jugraj-008/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jugraj-008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/jugraj-008/LeetCode/tree/master/0768-partition-labels) |
 | [0929-unique-email-addresses](https://github.com/jugraj-008/LeetCode/tree/master/0929-unique-email-addresses) |
@@ -235,6 +237,7 @@ This repository helps me:
 | [0090-subsets-ii](https://github.com/jugraj-008/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/jugraj-008/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jugraj-008/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -399,6 +402,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jugraj-008/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jugraj-008/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bidirectional Search
 |  |
 | ------- |
