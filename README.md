@@ -140,6 +140,7 @@ This repository helps me:
 | [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/jugraj-008/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jugraj-008/LeetCode/tree/master/0268-missing-number) |
+| [0312-burst-balloons](https://github.com/jugraj-008/LeetCode/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/jugraj-008/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/jugraj-008/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jugraj-008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -270,6 +271,7 @@ This repository helps me:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jugraj-008/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jugraj-008/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/jugraj-008/LeetCode/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/jugraj-008/LeetCode/tree/master/0312-burst-balloons) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jugraj-008/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Timsort
 |  |
