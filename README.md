@@ -82,6 +82,7 @@ This repository helps me:
 | [1657-determine-if-two-strings-are-close](https://github.com/jugraj-008/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/jugraj-008/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1980-find-unique-binary-string](https://github.com/jugraj-008/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jugraj-008/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
