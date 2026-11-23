@@ -72,6 +72,7 @@ This repository helps me:
 | [0038-count-and-say](https://github.com/jugraj-008/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/jugraj-008/LeetCode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/jugraj-008/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/jugraj-008/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/jugraj-008/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/jugraj-008/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
@@ -271,6 +272,7 @@ This repository helps me:
 | [0096-unique-binary-search-trees](https://github.com/jugraj-008/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jugraj-008/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jugraj-008/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/jugraj-008/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/jugraj-008/LeetCode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/jugraj-008/LeetCode/tree/master/0312-burst-balloons) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jugraj-008/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -308,6 +310,7 @@ This repository helps me:
 | [0047-permutations-ii](https://github.com/jugraj-008/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jugraj-008/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/jugraj-008/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/jugraj-008/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1980-find-unique-binary-string](https://github.com/jugraj-008/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Euclidean Algorithm
 |  |
