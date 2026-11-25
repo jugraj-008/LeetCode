@@ -5,8 +5,8 @@ class Solution {
         for (int row = 0; row < grid.length; row++) {
             for (int col = 0; col < grid[0].length; col++) {
                 if (grid[row][col] == '1') {
-                    islands++;
                     dfs(grid, row, col);
+                    islands++;
                 }
             }
         }
@@ -15,8 +15,11 @@ class Solution {
     }
 
     private void dfs(char[][] grid, int row, int col) {
-        if (row < 0 || row >= grid.length ||
-            col < 0 || col >= grid[0].length ||
+        int m = grid.length;
+        int n = grid[0].length;
+        
+        if (row < 0 || row >= m ||
+            col < 0 || col >= n ||
             grid[row][col] != '1') {
             return;
         }
