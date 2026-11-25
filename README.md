@@ -380,6 +380,7 @@ This repository helps me:
 | [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
 | [0797-all-paths-from-source-to-target](https://github.com/jugraj-008/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/jugraj-008/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jugraj-008/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -388,6 +389,7 @@ This repository helps me:
 | [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
 | [0797-all-paths-from-source-to-target](https://github.com/jugraj-008/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/jugraj-008/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jugraj-008/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,6 +428,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jugraj-008/LeetCode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jugraj-008/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -443,6 +446,7 @@ This repository helps me:
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/jugraj-008/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/jugraj-008/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jugraj-008/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
