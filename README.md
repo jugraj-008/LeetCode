@@ -97,6 +97,7 @@ This repository helps me:
 | [0628-maximum-product-of-three-numbers](https://github.com/jugraj-008/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jugraj-008/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jugraj-008/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/jugraj-008/LeetCode/tree/master/3360-stone-removal-game) |
 | [3859-maximum-product-of-two-digits](https://github.com/jugraj-008/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -179,6 +180,7 @@ This repository helps me:
 | [0059-spiral-matrix-ii](https://github.com/jugraj-008/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/jugraj-008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/jugraj-008/LeetCode/tree/master/0682-baseball-game) |
+| [3360-stone-removal-game](https://github.com/jugraj-008/LeetCode/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
